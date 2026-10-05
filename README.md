@@ -8,7 +8,7 @@ The project gave me practice turning source data into calculations, tests, and c
 
 ## Open the workbook
 
-Download `1-RF-Stock-Statistical-Analysis.xlsx` and open it in Excel. GitHub does not display an Excel preview. The workbook opens on the `RF` analysis sheet at cell F19, at 85% zoom.
+Download `RF-Stock-Statistical-Analysis.xlsx` and open it in Excel. GitHub does not display an Excel preview. The workbook opens on the `RF` analysis sheet at cell F19, at 85% zoom.
 
 The full long analysis sheet is included. Use Excel's Name Box to jump to a cell:
 
